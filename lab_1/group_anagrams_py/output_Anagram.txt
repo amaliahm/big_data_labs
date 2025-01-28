@@ -1,0 +1,7 @@
+elmno	['melon', 'lemon']
+aberr	['barre', 'arbre']
+deeinrv	['deviner', 'devenir']
+abefil	['fiable', 'faible']
+abefl	['fable']
+deenrv	['vendre']
+abber	['barbe']

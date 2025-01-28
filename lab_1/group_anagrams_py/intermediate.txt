@@ -1,0 +1,11 @@
+elmno	melon
+aberr	barre
+deeinrv	deviner
+elmno	lemon
+aberr	arbre
+abefil	fiable
+abefl	fable
+deenrv	vendre
+deeinrv	devenir
+abefil	faible
+abber	barbe
