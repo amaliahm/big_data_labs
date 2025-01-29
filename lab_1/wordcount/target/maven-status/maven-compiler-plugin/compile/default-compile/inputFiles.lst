@@ -1,4 +1,4 @@
 /home/mina/projects/big_data_labs/lab_1/wordcount/src/main/java/hadoop/mapreduce/App.java
-/home/mina/projects/big_data_labs/lab_1/wordcount/src/main/java/tp1/IntSumReducer.java
-/home/mina/projects/big_data_labs/lab_1/wordcount/src/main/java/tp1/TokenizerMapper.java
-/home/mina/projects/big_data_labs/lab_1/wordcount/src/main/java/tp1/WordCount.java
+/home/mina/projects/big_data_labs/lab_1/wordcount/src/main/java/hadoop/mapreduce/tp1/IntSumReducer.java
+/home/mina/projects/big_data_labs/lab_1/wordcount/src/main/java/hadoop/mapreduce/tp1/TokenizerMapper.java
+/home/mina/projects/big_data_labs/lab_1/wordcount/src/main/java/hadoop/mapreduce/tp1/WordCount.java
