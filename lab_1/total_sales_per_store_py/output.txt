@@ -1,0 +1,35 @@
+tail -100 ../Lab1_Data/Data/Exo1,2,3/purchases.txt | python mapper.py | sort | python reducer.py > output.txt
+
+Albuquerque	716.3499999999999
+Anaheim	194.91
+Bakersfield	361.22
+Baltimore	467.3
+Birmingham	118.04
+Chandler	382.21
+Durham	237.89
+Garland	455.63
+Gilbert	614.75
+Glendale	489.67
+Greensboro	277.27
+Hialeah	115.21
+Indianapolis	295.78999999999996
+Irvine	301.41
+Irving	126.31
+Lincoln	220.06
+Madison	44.47
+Miami	53.25
+Minneapolis	167.3
+Newark	199.78
+Norfolk	894.0899999999999
+Oakland	38.4
+Omaha	309.09000000000003
+Philadelphia	254.26
+Phoenix	394.31
+Portland	393.98
+Rochester	399.57
+Stockton	334.58
+Tampa	53.18
+Tulsa	116.9
+Washington	457.47999999999996
+Wichita	383.9
+Winston–Salem	394.4
