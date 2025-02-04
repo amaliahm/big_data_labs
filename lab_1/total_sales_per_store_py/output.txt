@@ -1,5 +1,3 @@
-tail -100 ../Lab1_Data/Data/Exo1,2,3/purchases.txt | python mapper.py | sort | python reducer.py > output.txt
-
 Albuquerque	716.3499999999999
 Anaheim	194.91
 Bakersfield	361.22
